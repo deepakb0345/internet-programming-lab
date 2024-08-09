@@ -258,11 +258,12 @@ a {
 }
 
 .content h1{
-  font-size: 38px;
+  /* font-size: 38px; */
   position: relative;
   bottom: 60px;
   font-family: 'Alfa Slab One';
   color: whitesmoke;
+  /* left:40px; */
   /* font-weight: 500; */
 }
 
